@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TanksCombat", "TanksCombat.csproj", "{BB7E58ED-1A76-7F36-C8B9-BEC8CAB6FA4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TanksCombat.Editor", "TanksCombat.Editor.csproj", "{5BE43ED4-7B5D-5B8C-6CB0-A6EB1B7F94BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB7E58ED-1A76-7F36-C8B9-BEC8CAB6FA4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7E58ED-1A76-7F36-C8B9-BEC8CAB6FA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7E58ED-1A76-7F36-C8B9-BEC8CAB6FA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7E58ED-1A76-7F36-C8B9-BEC8CAB6FA4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE43ED4-7B5D-5B8C-6CB0-A6EB1B7F94BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE43ED4-7B5D-5B8C-6CB0-A6EB1B7F94BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE43ED4-7B5D-5B8C-6CB0-A6EB1B7F94BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE43ED4-7B5D-5B8C-6CB0-A6EB1B7F94BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
